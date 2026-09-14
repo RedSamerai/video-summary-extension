@@ -1,0 +1,44 @@
+# Models (download separately, too large for git)
+models/
+
+# Large binary files
+*.wasm
+ort.js
+transformers.js
+transformers.min.js
+transformers.mjs
+transformers.umd.js
+transformers-bundle.js
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+dist/
+build/
+*.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.new
+*.md.bak
+
+# Cache
+cache/
