@@ -1,14 +1,6 @@
-# Models (download separately, too large for git)
+# Models (via Git LFS)
 models/
-
-# Large binary files
-*.wasm
-ort.js
 transformers.js
-transformers.min.js
-transformers.mjs
-transformers.umd.js
-transformers-bundle.js
 
 # Node
 node_modules/

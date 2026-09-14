@@ -1,0 +1,4 @@
+models/**/*.onnx filter=lfs diff=lfs merge=lfs -text
+models/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/**/*.txt filter=lfs diff=lfs merge=lfs -text
+transformers.js filter=lfs diff=lfs merge=lfs -text
