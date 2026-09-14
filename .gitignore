@@ -1,7 +1,3 @@
-# Models (via Git LFS)
-models/
-transformers.js
-
 # Node
 node_modules/
 package-lock.json
